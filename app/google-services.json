@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "573074232066",
+    "firebase_url": "https://butcehesaplama.firebaseio.com",
+    "project_id": "butcehesaplama",
+    "storage_bucket": "butcehesaplama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573074232066:android:81a8af1f745b8a77",
+        "android_client_info": {
+          "package_name": "com.example.merve.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573074232066-pv11cieb86bnpt1r9auua9eguen6o0q8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATsAw1ysWh0blgsb3lK4kF8o-WLQO7TW8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

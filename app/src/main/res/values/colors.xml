@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorText">#1b24d8</color>
+    <color name="colorABackground">#eaadc3</color>
+    <color name="colorABackground1">#eaadc4</color>
+    <color name="colorABackground2">#18685a</color>
+    <color name="yaziRengi">#ffffff</color>
+    <color name="logintextYaziRengi">#878686</color>
+    <color name="loginButtonArkaPlanRengi">#18685a</color>
+
+</resources>
